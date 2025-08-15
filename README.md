@@ -8,7 +8,10 @@ This project uses the in-context learning capabilities of Gemini, allowing users
 ## Demo 
 
 
-https://github.com/user-attachments/assets/2e798584-16dd-41fb-a45a-878471389227
+
+
+https://github.com/user-attachments/assets/53b7fbe1-19c9-41d2-8a9d-de5eced38c13
+
 
 
 
