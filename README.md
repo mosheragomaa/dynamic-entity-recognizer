@@ -5,6 +5,12 @@ An interactive, asynchronous entity recognizer built with Gradio and gemini-2.5-
 
 This project uses the in-context learning capabilities of Gemini, allowing users to define entities, provide training images, and get immediate classification results without any model fine-tuning or prior machine learning knowledge.
 
+## Demo 
+
+
+
+![demo (2)](https://github.com/user-attachments/assets/a85f1eb8-c1c5-4639-9598-3ef56c6253f9)
+
 
 ## How it works:
 ### 1.  Dynamic Prompt Construction:
